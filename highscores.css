@@ -1,0 +1,21 @@
+
+#highScoresList {
+  color: #3b4888;
+  list-style: none;
+  padding-left: 0%;
+  margin-bottom: 4rem;
+}
+
+.high-score {
+  color: #3b4888;
+  font-size: 2.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.highscore:hover {
+  transform: scale(1.025);
+}
+
+h1 {
+  color: #3b4888;
+}
